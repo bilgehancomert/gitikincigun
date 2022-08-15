@@ -16,6 +16,5 @@ public class Day2GitGithub {
     Not: Github ogrendim
     6-) git pull --> Remote(yani uzak repo) dosylarımızı güncellemek için kullanılır
     Not: Github Çok eglenceli
-    deneme
      */
 }
