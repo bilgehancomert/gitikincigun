@@ -14,6 +14,6 @@ public class Day2GitGithub {
     Not: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push kullanırız
     Not: git log --oneline --> Commitlerimdeki yani versiyonlarımda ki durumu gösterir
     Not: Github ogrendim
+    6-) git pull --> Remote(yani uzak repo) dosylarımızı güncellemek için kullanılır
      */
-    }
 }
